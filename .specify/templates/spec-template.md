@@ -113,3 +113,19 @@
 - **SC-002**: [Measurable metric, e.g., "System handles 1000 concurrent users without degradation"]
 - **SC-003**: [User satisfaction metric, e.g., "90% of users successfully complete primary task on first attempt"]
 - **SC-004**: [Business metric, e.g., "Reduce support tickets related to [X] by 50%"]
+
+---
+
+## Constitution Compliance
+
+*(mandatory)*
+
+This specification must comply with the Rebrand.Salon Frontend Constitution principles:
+
+- [ ] **AI-First Component Architecture**: Components designed for AI agent consumption
+- [ ] **Performance-First Design**: Lighthouse scores above 90 on mobile/desktop
+- [ ] **Type Safety & Validation**: TypeScript strict mode with Zod validation
+- [ ] **Theme & Customization System**: Multi-theme support with AI-driven customization
+- [ ] **Comprehensive Testing**: 95%+ test coverage with multiple testing categories
+
+All requirements must align with these constitutional principles.

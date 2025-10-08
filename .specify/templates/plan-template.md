@@ -31,7 +31,14 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+### Required Gates for Rebrand.Salon Frontend Development:
+- [ ] **AI-First Component Architecture**: Components designed for AI agent consumption with registry metadata
+- [ ] **Performance-First Design**: Lighthouse scores above 90 on mobile/desktop, performance budgets enforced
+- [ ] **Type Safety & Validation**: TypeScript strict mode with Zod validation schemas for all data structures
+- [ ] **Theme & Customization System**: Multi-theme support with AI-driven customization capabilities
+- [ ] **Comprehensive Testing**: 95%+ test coverage with unit, integration, visual, and accessibility testing
+- [ ] **Technology Standards**: Next.js 15, TypeScript, Tailwind CSS, Zod, Zustand stack compliance
+- [ ] **Development Workflow**: AI-first development process with proper quality gates
 
 ## Project Structure
 

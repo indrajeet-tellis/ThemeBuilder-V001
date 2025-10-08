@@ -7,7 +7,7 @@ description: "Task list template for feature implementation"
 **Input**: Design documents from `/specs/[###-feature-name]/`
 **Prerequisites**: plan.md (required), spec.md (required for user stories), research.md, data-model.md, contracts/
 
-**Tests**: The examples below include test tasks. Tests are OPTIONAL - only include them if explicitly requested in the feature specification.
+**Tests**: The examples below include test tasks. Tests are MANDATORY for Rebrand.Salon Frontend development - all tasks must include comprehensive testing per constitution requirements.
 
 **Organization**: Tasks are grouped by user story to enable independent implementation and testing of each story.
 
@@ -46,8 +46,8 @@ description: "Task list template for feature implementation"
 **Purpose**: Project initialization and basic structure
 
 - [ ] T001 Create project structure per implementation plan
-- [ ] T002 Initialize [language] project with [framework] dependencies
-- [ ] T003 [P] Configure linting and formatting tools
+- [ ] T002 Initialize Next.js 15 project with TypeScript dependencies
+- [ ] T003 [P] Configure Biome for linting and formatting (constitution: Technology Standards)
 
 ---
 
